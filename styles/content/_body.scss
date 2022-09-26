@@ -1,0 +1,45 @@
+body{
+    background-color: $morado ;
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    h2{
+        font-size: 30px;
+    }
+
+   main{
+    background-color: $crema;
+        .start{
+            background-color: $morado;
+        }
+
+        div{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            text-align: center;
+            padding: 10px;
+        
+    
+        h2, p, {
+            
+            padding-left: 15px;
+            padding-right: 15px;
+        }
+        a{
+            text-decoration: none;
+            color: #1264a3;
+            
+        }
+        
+        a:hover{
+            text-decoration: underline;
+        }
+    }
+}
+
+    
+}
+
+img{
+    width: 390px;
+}

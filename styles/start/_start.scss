@@ -1,0 +1,33 @@
+.start{
+    color:white;
+    text-align: center;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color: transparent;
+    padding-bottom: 30px;
+    
+        h1{
+        font-size: 39px;
+        }
+
+        p{
+            font-size:16px ;
+        }
+}
+
+.start-btn_blue{
+    background-color: RGB(66, 133, 244);
+    display: flex;
+    align-items: center;
+    
+    img{
+        width: 40px;
+        border-radius: 5%;
+        margin-right: 43px;
+        
+    }
+}
+
+.foto{
+    padding: 0;
+}

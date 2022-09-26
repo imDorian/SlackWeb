@@ -1,0 +1,44 @@
+.confian{
+    background-color: white;
+
+    .confian-equipos{
+        p{
+            font-size: 18px;
+            font-weight: 500;
+        }
+    }
+
+    div{
+        margin:15px
+    }
+
+    .history{
+        span{
+            font-style: italic; 
+            font-size: 20px;
+            margin-top:30px;
+        }
+    }
+
+    .porcent{
+        margin-top: 30px;
+        margin-bottom: 30px;
+        h2{
+            color: $morado;
+            font-size: 50px;
+            margin:0
+        }
+        p{
+        margin:0;
+        padding-right: 50px;
+        padding-left: 50px;
+        font-size: 14px;
+        }
+    }
+}
+
+.señor{
+    border-bottom-right-radius: 100px;
+    border-top-right-radius: 100px;
+}
+

@@ -1,0 +1,24 @@
+.explora{
+    margin-bottom: 50px;
+    .explora-box{
+        width: 300px;
+        background-color: white;
+        padding:15px;
+        text-align:left;
+        justify-content: flex-start;
+        span{
+            margin-top: 20px;
+        }
+        h3{
+            font-size: 20px;
+        }
+        h4{
+            color: $linkcolor;
+            font-size: 14px;
+            
+        }
+        img{
+            width: 100%;
+        }
+    }
+}
